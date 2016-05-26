@@ -1,0 +1,93 @@
+C:\Users\Moonlights\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Moonlights\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Moonlights\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Moonlights\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Moonlights\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Moonlights\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Moonlights\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Moonlights\Documents\Visual Studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Moonlights\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Moonlights\Desktop\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Moonlights\Desktop\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Moonlights\Desktop\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+K:\大学\数字图像处理实践\图像处理备份-20140223\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+K:\大学\数字图像处理实践\图像处理备份-20140223\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+K:\大学\数字图像处理实践\图像处理备份-20140223\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+K:\大学\数字图像处理实践\图像处理备份-20140223\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+K:\大学\数字图像处理实践\图像处理备份-20140223\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+K:\大学\数字图像处理实践\图像处理备份-20140223\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+K:\大学\数字图像处理实践\图像处理备份-20140223\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+K:\大学\数字图像处理实践\图像处理备份-20140223\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+K:\大学\数字图像处理实践\图像处理备份-20140223\20140211算法代码\c#工程\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\珠海汇金\0225项目修改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\珠海汇金\0225项目修改\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\珠海汇金\0225项目修改\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\珠海汇金\0225项目修改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\珠海汇金\0225项目修改\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\珠海汇金\0225项目修改\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\珠海汇金\0225项目修改\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\珠海汇金\0225项目修改\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\珠海汇金\0225项目修改\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140225\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140225\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140225\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140225\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140225\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140225\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140225\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140225\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140324_1\版本20140324\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140324_1\版本20140324\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140324_1\版本20140324\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140324_1\版本20140324\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140324_1\版本20140324\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140324_1\版本20140324\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140324_1\版本20140324\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140324_1\版本20140324\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+K:\大学\数字图像处理实践\版本\版本20140225\版本20140324_1\版本20140324\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+K:\项目\图片处理项目-贺辉老师\版本\版本20140225\版本20140324_1\版本20140416\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+K:\项目\图片处理项目-贺辉老师\版本\版本20140225\版本20140324_1\版本20140416\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+K:\项目\图片处理项目-贺辉老师\版本\版本20140225\版本20140324_1\版本20140416\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+K:\项目\图片处理项目-贺辉老师\版本\版本20140225\版本20140324_1\版本20140416\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+K:\项目\图片处理项目-贺辉老师\版本\版本20140225\版本20140324_1\版本20140416\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+K:\项目\图片处理项目-贺辉老师\版本\版本20140225\版本20140324_1\版本20140416\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+K:\项目\图片处理项目-贺辉老师\版本\版本20140225\版本20140324_1\版本20140416\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+K:\项目\图片处理项目-贺辉老师\版本\版本20140225\版本20140324_1\版本20140416\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\caijian\版本-2014-04-30\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\caijian\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\caijian\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\caijian\版本-2014-04-30\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\caijian\版本-2014-04-30\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\caijian\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\caijian\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\caijian\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Moon\Desktop\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Moon\Desktop\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Moon\Desktop\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+K:\项目\图片处理项目-贺辉老师\版本\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+K:\项目\图片处理项目-贺辉老师\版本\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+K:\项目\图片处理项目-贺辉老师\版本\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+K:\项目\图片处理项目-贺辉老师\版本\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+K:\项目\图片处理项目-贺辉老师\版本\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+K:\项目\图片处理项目-贺辉老师\版本\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+K:\项目\图片处理项目-贺辉老师\版本\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+K:\项目\图片处理项目-贺辉老师\版本\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+K:\项目\图片处理项目-贺辉老师\版本\版本-2014-04-30\版本-2014-04-30\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\moon\Desktop\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\moon\Desktop\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\moon\Desktop\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\moon\Desktop\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\moon\Desktop\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\moon\Desktop\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\moon\Desktop\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\moon\Desktop\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+K:\项目\图片处理项目-贺辉老师\版本\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+K:\项目\图片处理项目-贺辉老师\版本\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+K:\项目\图片处理项目-贺辉老师\版本\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+K:\项目\图片处理项目-贺辉老师\版本\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+K:\项目\图片处理项目-贺辉老师\版本\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+K:\项目\图片处理项目-贺辉老师\版本\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+K:\项目\图片处理项目-贺辉老师\版本\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+K:\项目\图片处理项目-贺辉老师\版本\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+K:\项目\图片处理项目-贺辉老师\版本\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+K:\项目\图片处理项目-贺辉老师\版本\20140624去除中间结果&更改2592尺寸\c#测试\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Show.resources

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "图像处理", "图像处理.csproj", "{970F5F43-31CD-4664-855D-4A92E48DBCAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{970F5F43-31CD-4664-855D-4A92E48DBCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{970F5F43-31CD-4664-855D-4A92E48DBCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{970F5F43-31CD-4664-855D-4A92E48DBCAA}.Debug|x86.ActiveCfg = Debug|x86
+		{970F5F43-31CD-4664-855D-4A92E48DBCAA}.Debug|x86.Build.0 = Debug|x86
+		{970F5F43-31CD-4664-855D-4A92E48DBCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{970F5F43-31CD-4664-855D-4A92E48DBCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{970F5F43-31CD-4664-855D-4A92E48DBCAA}.Release|x86.ActiveCfg = Release|x86
+		{970F5F43-31CD-4664-855D-4A92E48DBCAA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
